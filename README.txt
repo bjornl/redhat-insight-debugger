@@ -12,5 +12,5 @@ http://www.stepbystep.ishipaco.com/
 
 Usage:
 
-$ sudo sh ./insight_only.sh
+$ sudo sh ./insight_only_patched.sh
 
